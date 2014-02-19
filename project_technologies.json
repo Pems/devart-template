@@ -4,12 +4,13 @@
             "Web Speech"
         ],
         "platforms": [
-            "Aarduino",
+            "Arduino",
             "Windows"
         ],
         "toolkits": [
             "Kinect",
-            "Processing"
+            "Processing",
+            "MIDI/OSC"
         ]
     },
     "themes": [
