@@ -1,16 +1,21 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Web Speech"
         ],
         "platforms": [
-            "insert platforms"
+            "arduino"
+            "windows"
         ],
         "toolkits": [
-            "insert toolkits"
+            "kinect"
+            "processing"
         ]
     },
     "themes": [
-        "insert themes"
+        "Generative Art"
+        "Audiovisual reaction"
+        "Plants"
+        "Ceremony and Rite"
     ]
 }
