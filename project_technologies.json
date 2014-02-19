@@ -1,7 +1,7 @@
 {
     "technologies": {
         "apis": [
-            "Web Speech"
+            "web speech"
         ],
         "platforms": [
             "arduino"
