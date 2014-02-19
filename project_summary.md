@@ -1,5 +1,5 @@
-# Project Title
-The Ceremony of Growth and Life
+# The Ceremony of Growth and Life
+(working title)
 
 ## Authors
 Pablo Arias (twitter @Pems33, github @Pems, Soundcloud @pitufinespacial)
